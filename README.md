@@ -14,7 +14,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=EEEEEE"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-#FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 
 ### Android
 <a href="https://developer.android.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
