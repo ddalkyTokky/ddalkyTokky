@@ -18,13 +18,13 @@
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
 
 ## Android & Embedded
-### Tools
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | 21th_Embedded_SW_Contest-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Quadcopter_Android_GCS_MAVSDK-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | 21th_Embedded_SW_Contest-00878F?style=flat-square&logo=arduino&logoColor=EEEEEE"/></a>
+### 21th_Embedded_SW_Contest
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | Tool-00878F?style=flat-square&logo=arduino&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin | Language-7F52FF?style=flat-square&logo=kotlin&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C | Language-A8B9CC?style=flat-square&logo=c&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C++ | Language-00599C?style=flat-square&logo=cplusplus&logoColor=EEEEEE"/></a>
 
-### Language
-<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Quadcopter_Android_GCS_MAVSDK-B7178C?style=flat-square&logo=reactivex&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin | 21th_Embedded_SW_Contest-7F52FF?style=flat-square&logo=kotlin&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C | 21th_Embedded_SW_Contest-A8B9CC?style=flat-square&logo=c&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C++ | 21th_Embedded_SW_Contest-00599C?style=flat-square&logo=cplusplus&logoColor=EEEEEE"/></a>
+### Quadcopter_Android_GCS_MAVSDK
+<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=flat-square&logo=reactivex&logoColor=EEEEEE"/></a>
