@@ -28,3 +28,5 @@
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=flat-square&logo=reactivex&logoColor=EEEEEE"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalkyTokky&show_icons=true&theme=radical)
