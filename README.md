@@ -30,5 +30,5 @@
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=flat-square&logo=reactivex&logoColor=EEEEEE"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddalkyTokky&layout=compact)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalkyTokky&show_icons=true&theme=default)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalkyTokky&show_icons=true&theme=default)
 
