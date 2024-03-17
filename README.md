@@ -3,7 +3,7 @@
 ### 👋 Hello, I'm SW Developer Soon Yong Lee.
 
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
-# Network
+# Network & Server
 ### 1. Spring_Study     
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Tool-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database | DBMS-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>
