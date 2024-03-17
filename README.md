@@ -17,8 +17,8 @@
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
 
 #### Language
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 
 ### Android & Embedded
 #### Tools
@@ -26,4 +26,7 @@
 <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=flat-square&logo=arduino&logoColor=EEEEEE"/></a>
 
 #### Language
-
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=EEEEEE"/></a>
+<a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=EEEEEE"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=EEEEEE"/></a>
