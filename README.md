@@ -11,6 +11,8 @@
 
 ### 2. Admin_Page_KAU2022      
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Node.js | Data Server-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/React | UI Server-61DAFB?style=flat-square&logo=react&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/MUI | Styled Component-007FFF?style=flat-square&logo=mui&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL | DBMS-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/AWS | Deploy-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Jenkins | CI_CD-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
