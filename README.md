@@ -1,4 +1,4 @@
-<a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=flat-square&logo=naver&logoColor=EEEEEE"/></a>
+<a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=for-the-badge-square&logo=naver&logoColor=EEEEEE"/></a>
 
 # 👋 Hello, I'm SW Developer Soon Yong Lee.
 
@@ -6,25 +6,25 @@
 # Every Badges will guide you to each Proejct Repository.
 ## Network
 ### Spring_Study
-<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Tool-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database | DBMS-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Tool-6DB33F?style=for-the-badge-square&logo=springboot&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database | DBMS-3B66BC?style=for-the-badge-square&logo=&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=for-the-badge-square&logo=&logoColor=EEEEEE"/></a>
 
 ### Admin_Page_KAU2022
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Node.js | Data Server-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL | DBMS-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/AWS | Deploy-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Jenkins | CI_CD-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Node.js | Data Server-339933?style=for-the-badge-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL | DBMS-4169E1?style=for-the-badge-square&logo=postgresql&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/AWS | Deploy-FF9900?style=for-the-badge-square&logo=amazonec2&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Jenkins | CI_CD-D24939?style=for-the-badge-square&logo=jenkins&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=for-the-badge-square&logo=javascript&logoColor=3A3A3A"/></a>
 
 ## Android & Embedded
 ### 21th_Embedded_SW_Contest
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | Tool-00878F?style=flat-square&logo=arduino&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin | Language-7F52FF?style=flat-square&logo=kotlin&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C | Language-A8B9CC?style=flat-square&logo=c&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C++ | Language-00599C?style=flat-square&logo=cplusplus&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge-square&logo=android&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | Tool-00878F?style=for-the-badge-square&logo=arduino&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin | Language-7F52FF?style=for-the-badge-square&logo=kotlin&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C | Language-A8B9CC?style=for-the-badge-square&logo=c&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/C++ | Language-00599C?style=for-the-badge-square&logo=cplusplus&logoColor=EEEEEE"/></a>
 
 ### Quadcopter_Android_GCS_MAVSDK
-<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=flat-square&logo=reactivex&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge-square&logo=android&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=for-the-badge-square&logo=reactivex&logoColor=EEEEEE"/></a>
