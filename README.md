@@ -13,7 +13,7 @@
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=EEEEEE"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 
 ### Android
