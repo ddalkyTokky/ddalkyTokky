@@ -17,6 +17,7 @@
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/AWS | Deploy-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Jenkins | CI_CD-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/TypeScript | Language-3178C6?style=flat-square&logo=typescript&logoColor=3A3A3A"/></a>
 
 # Android & Embedded
 ### 1. 21th_Embedded_SW_Contest      
