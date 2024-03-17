@@ -3,6 +3,7 @@
 # 👋 안녕하세요!! 이것저것 개발자 이순용입니다~
 
 # 💪 Skills
+# Every Badges will guide you to My best related Proejct Repositories!!
 ## Network
 ### Backend
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
