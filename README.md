@@ -1,6 +1,6 @@
 <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=flat-square&logo=naver&logoColor=EEEEEE"/></a>
 
-# 👋 Hello, I'm SW Developer.
+# 👋 Hello, I'm SW Developer Soon Yong Lee.
 
 # 💪 Projects
 # Every Badges will guide you to each Proejct Repository.
