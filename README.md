@@ -2,16 +2,17 @@
 
 # 👋 안녕하세요!! 이것저것 개발자 이순용입니다~
 
-# 💪 Skills
-# Every Badges will guide you to My best related Proejct Repositories !
+# 💪 Projects
+# Every Badges will guide you to each Proejct Repository.
 ## Network
-### Backend
-<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Spring_study-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Node.js | Admin_Page_KAU2022-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
+### Spring_Study
+<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 
-### DBMS
-<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/MySQL | Spring_study-4479A1?style=flat-square&logo=mysql&logoColor=EEEEEE"/></a>
-<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL | Admin_Page_KAU2022-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>
+### Admin_Page_KAU2022
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=EEEEEE"/></a>
+<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>
 
 ### Deploy
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022" target="_blank"><img src="https://img.shields.io/badge/AWS | Admin_Page_KAU2022-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
