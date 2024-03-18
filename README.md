@@ -56,7 +56,7 @@ Drag & Copy: tnsdyd6933@naver.com
 #### What my team did?
 |Embedded Tool|Language1|Language2|
 |:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|
+|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|
 
 <!--
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>
