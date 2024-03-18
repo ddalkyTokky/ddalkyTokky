@@ -4,7 +4,7 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 👋 Hello, I'm SW Developer Soon Yong Lee.
 
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
-# Network & Server
+# *Network & Server
 ### 1. Spring_Study
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
@@ -46,7 +46,7 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript | Language-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>
 -->
 
-# Android & Embedded
+# *Android & Embedded
 ### 1. 21th_Embedded_SW_Contest      
 #### What I did?
 |Application Tool|Language|
