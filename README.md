@@ -1,4 +1,5 @@
 <a href="mailto:tnsdyd6933@naver.com" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=flat-square&logo=naver&logoColor=EEEEEE"/></a>
+tnsdyd6933@naver.com
 
 ### 👋 Hello, I'm SW Developer Soon Yong Lee.
 
