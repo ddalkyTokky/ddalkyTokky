@@ -21,15 +21,8 @@ What I did?
 |Data Server Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=3A3A3A"/></a>|
-|Deploy|CI CD||
-|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/Jenkins" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=EEEEEE"/></a>|
-
-
-<!--
-|Deploy|CI CD|
-|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/Jenkins" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=EEEEEE"/></a>|
--->
+|**Deploy**|**CI CD**||
+|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/Jenkins" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=EEEEEE"/></a>||
 
 <!--
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/Node.js | Data Server-339933?style=for-the-badge&logo=nodedotjs&logoColor=EEEEEE"/></a>
