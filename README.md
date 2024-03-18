@@ -67,9 +67,15 @@ Drag & Copy: tnsdyd6933@naver.com
 -->
 
 ### 2. Quadcopter_Android_GCS_MAVSDK      
+|Application Tool|Language1|Language2|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>|
+
+<!--
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava | Language-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalkyTokky&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddalkyTokky&layout=compact)
