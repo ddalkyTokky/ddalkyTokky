@@ -4,8 +4,8 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 👋 Hello, I'm SW Developer Soon Yong Lee.
 
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
-# *Network & Server
-### 1. Spring_Study
+# _Network & Server_
+#### 1. Spring_Study
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boo-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|
@@ -16,7 +16,7 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>
 -->
 
-### 2. Admin_Page_KAU2022      
+#### 2. Admin_Page_KAU2022      
 #### What I did?
 |Data Server Tool|DBMS|Language|
 |:---:|:---:|:---:|
@@ -46,8 +46,8 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript | Language-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>
 -->
 
-# *Android & Embedded
-### 1. 21th_Embedded_SW_Contest      
+# _Android & Embedded_
+#### 1. 21th_Embedded_SW_Contest      
 #### What I did?
 |Application Tool|Language|
 |:---:|:---:|
@@ -66,7 +66,7 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C++ | Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>
 -->
 
-### 2. Quadcopter_Android_GCS_MAVSDK      
+#### 2. Quadcopter_Android_GCS_MAVSDK      
 |Application Tool|Language1|Language2|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>|
