@@ -48,11 +48,23 @@ Drag & Copy: tnsdyd6933@naver.com
 
 # Android & Embedded
 ### 1. 21th_Embedded_SW_Contest      
+|Application Tool|Language|
+|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|
+<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/></a>|
+
+
+|Embedded Tool|Language1|Language2|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|
+
+<!--
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | Tool-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin | Language-7F52FF?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C | Language-A8B9CC?style=for-the-badge&logo=c&logoColor=3A3A3A"/></a>
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/C++ | Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>
+-->
 
 ### 2. Quadcopter_Android_GCS_MAVSDK      
 <a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>
