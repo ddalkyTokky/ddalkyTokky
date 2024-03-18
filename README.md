@@ -17,7 +17,7 @@ Drag & Copy: tnsdyd6933@naver.com
 -->
 
 #### 2. Admin_Page_KAU2022      
-#### What I did?
+What I did?
 |Data Server Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=3A3A3A"/></a>|
@@ -35,7 +35,7 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=3A3A3A"/></a>
 -->
 
-#### What my team did?
+What my team did?
 |UI Server Tool|Styled Component|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>|
@@ -48,12 +48,12 @@ Drag & Copy: tnsdyd6933@naver.com
 
 # _Android & Embedded_
 #### 1. 21th_Embedded_SW_Contest      
-#### What I did?
+What I did?
 |Application Tool|Language|
 |:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/></a>|
 
-#### What my team did?
+What my team did?
 |Embedded Tool|Language1|Language2|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|
