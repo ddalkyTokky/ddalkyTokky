@@ -31,9 +31,15 @@ Drag & Copy: tnsdyd6933@naver.com
 -->
 
 #### What my team did?
+|UI Server Tool|Styled Component|Language|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>|
+
+<!--
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React | UI Server-61DAFB?style=for-the-badge&logo=react&logoColor=3A3A3A"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI | Styled Component-007FFF?style=for-the-badge&logo=mui&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript | Language-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>
+-->
 
 # Android & Embedded
 ### 1. 21th_Embedded_SW_Contest      
