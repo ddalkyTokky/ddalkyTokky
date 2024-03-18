@@ -4,7 +4,7 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 👋 Hello, I'm SW Developer Soon Yong Lee.
 
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
-# + Network & Server
++ # Network & Server
 ### 1. Spring_Study     
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Tool-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database | DBMS-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>
@@ -23,7 +23,7 @@ Drag & Copy: tnsdyd6933@naver.com
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI | Styled Component-007FFF?style=flat-square&logo=mui&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript | Language-3178C6?style=flat-square&logo=typescript&logoColor=EEEEEE"/></a>
 
-# + Android & Embedded
++ # Android & Embedded
 ### 1. 21th_Embedded_SW_Contest      
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio | Tool-34A853?style=flat-square&logo=android&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE | Tool-00878F?style=flat-square&logo=arduino&logoColor=EEEEEE"/></a>
