@@ -1,7 +1,7 @@
 <a href="mailto:tnsdyd6933@naver.com" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=EEEEEE"/></a>       
 Drag & Copy: tnsdyd6933@naver.com
 
-### 👋 Hello, I'm SW Developer Soon Yong Lee.
+### 👋 Hello, I'm SW Engineer Soon Yong Lee.
 
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
 # _Network & Server_
