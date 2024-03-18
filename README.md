@@ -6,21 +6,29 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 💪 Projects | Every Badge will guide you to each Proejct Repository.
 # Network & Server
 ### 1. Spring_Study
-|Main Tool|DBMS|Language|
+|WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boo-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>|
-                      
+
+<!--
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot | Tool-6DB33F?style=flat-square&logo=springboot&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database | DBMS-3B66BC?style=flat-square&logo=&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java | Language-FF7800?style=flat-square&logo=&logoColor=EEEEEE"/></a>
+-->
 
 ### 2. Admin_Page_KAU2022      
 #### What I did?
+|Data Server Tool|DBMS|Deploy|CI CD|Language|
+|:---:|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/Jenkins" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>|
+
+<!--
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/Node.js | Data Server-339933?style=flat-square&logo=nodedotjs&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL | DBMS-4169E1?style=flat-square&logo=postgresql&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/AWS | Deploy-FF9900?style=flat-square&logo=amazonec2&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/Jenkins" target="_blank"><img src="https://img.shields.io/badge/Jenkins | CI_CD-D24939?style=flat-square&logo=jenkins&logoColor=EEEEEE"/></a>
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/DataServer" target="_blank"><img src="https://img.shields.io/badge/JavaScript | Language-F7DF1E?style=flat-square&logo=javascript&logoColor=3A3A3A"/></a>
+-->
 
 #### What my team did?
 <a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React | UI Server-61DAFB?style=flat-square&logo=react&logoColor=3A3A3A"/></a>
