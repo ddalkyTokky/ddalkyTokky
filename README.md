@@ -1,5 +1,5 @@
 <a href="mailto:tnsdyd6933@naver.com" target="_blank"><img src="https://img.shields.io/badge/tnsdyd6933@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=EEEEEE"/></a>         
-<a href="https://strawberryrabbit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/StrawberryRabbit's blog-03C75A?style=for-the-badge&logo=tistory&logoColor=#000000"/></a>              
+<a href="https://strawberryrabbit.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/StrawberryRabbit's blog-000000?style=for-the-badge&logo=tistory&logoColor=000000"/></a>              
 
 Drag & Copy: tnsdyd6933@naver.com
 
