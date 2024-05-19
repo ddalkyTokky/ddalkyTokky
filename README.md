@@ -11,7 +11,7 @@ Drag & Copy: tnsdyd6933@naver.com
 #### 1. Sparta Coding Club - Kotlin & Spring Boot 📚
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
+|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backends" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 
 #### 2. Spring_Study 📚
 |WAS Tool|DBMS|Language|
