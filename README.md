@@ -7,12 +7,18 @@ Drag & Copy: tnsdyd6933@naver.com
 
 ### 💪 Projects | 🎟️ Every Badge will guide you to each Proejct Repository.
 # 🌐 _Network & Server_ 💻
-#### 1. Spring_Study 📚
+
+#### 1. Sparta Coding Club - Kotlin & Spring Boot 📚
+|WAS Tool|DBMS|Language|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|
+
+#### 2. Spring_Study 📚
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|
 
-#### 2. Admin_Page_KAU2022 📂       
+#### 3. Admin_Page_KAU2022 📂       
 What I did?
 |Data Server Tool|DBMS|Language|
 |:---:|:---:|:---:|
