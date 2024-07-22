@@ -3,22 +3,22 @@
 
 Drag & Copy: tnsdyd6933@naver.com
 
-### 👋 Hello, I'm SW Engineer Soon Yong Lee. 🛠️
+### 👋 사람을 좋아하는 SW 엔지니어 이순용입니다! 🛠️
 
-### 💪 Projects | 🎟️ Every Badge will guide you to each Proejct Repository.
+### 💪 프로젝트 | 🎟️ 뱃지를 누르면 각 프로젝트로 이동합니다!
 # 🌐 _Network & Server_ 💻
 
-#### 1. Sparta Coding Club - 할일 목록 조회하기 (백엔드 Only) Kotlin & Spring Boot 📚
+#### 1. Sparta coding Club 스파르타 코딩 클럽 - TODO List Project (Backend Only) 할일 목록 조회하기 (백엔드 Only) Kotlin & Spring Boot 📚
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 
-#### 2. Spring_Study 📚
+#### 2. Spring study 스프링 스터디 📚
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|
 
-#### 3. Admin_Page_KAU2022 📂       
+#### 3. Admin Page KAU 2022 관리자 페이지 (산학협력 프로젝트) 📂       
 What I did?
 |Data Server Tool|DBMS|Language|
 |:---:|:---:|:---:|
@@ -32,7 +32,7 @@ What my team did?
 |<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>|
 
 # 📱 _Android & Embedded_ 🟩
-#### 1. 21th_Embedded_SW_Contest 🚘      
+#### 1. 21th Embedded SW Contest 제21회 임베디드 SW 경진대회 (우수상) 🚘      
 What I did?
 |Application Tool|Language1|Language2|
 |:---:|:---:|:---:|
@@ -43,7 +43,7 @@ What my team did?
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/Python 3.6-3776AB?style=for-the-badge&logo=python&logoColor=EEEEEE"/></a>|
 
-#### 2. Quadcopter_Android_GCS_MAVSDK 🚁       
+#### 2. Quadcopter_Android_GCS_MAVSDK 쿼드콥터 안드로이드 지상 관제 앱 개발 🚁       
 |Application Tool|Language1|Language2|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>|
