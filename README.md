@@ -8,7 +8,7 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 💪 Projects | 🎟️ Every Badge will guide you to each Proejct Repository.
 # 🌐 _Network & Server_ 💻
 
-#### 1. Sparta Coding Club - Kotlin & Spring Boot 📚
+#### 1. Sparta Coding Club - 할일 목록 조회하기 (백엔드 Only) Kotlin & Spring Boot 📚
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
