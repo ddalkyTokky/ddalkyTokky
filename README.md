@@ -8,7 +8,8 @@ Drag & Copy: tnsdyd6933@naver.com
 ### 💪 프로젝트 | 🎟️ 뱃지를 누르면 각 프로젝트로 이동합니다!
 # 🌐 _Network & Server_ 💻
 
-#### 1. Sparta coding Club 스파르타 코딩 클럽 - TODO List Project (Backend Only) 할일 목록 조회하기 (백엔드 Only) Kotlin & Spring Boot 📚
+#### 1. Sparta coding Club - TODO List Project (Backend Only) Kotlin & Spring Boot 📚
+#### 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only)
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
