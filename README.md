@@ -17,7 +17,7 @@ Drag & Copy: tnsdyd6933@naver.com
 
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/ARIJ/tree/main" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/main" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/main" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
+|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 
 ---
 
