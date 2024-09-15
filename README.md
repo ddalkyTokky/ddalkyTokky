@@ -13,27 +13,36 @@ Drag & Copy: tnsdyd6933@naver.com
 <!-- ### Project | Every Badge will guide you to Project Branch! -->
 # 🌐 _Network & Server_ 🌐
 
-### 1. 📝 스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 코틀린 & 스프링 부트 📝
+### 1. 📝 스파르타 코딩 클럽 - NewFeed 음악추천 프로그램 📝
+### [거두 절미하고 시연영상부터 보기](https://www.youtube.com/watch?v=L8JOhpif_mQ)
 
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/ARIJ/tree/dev0.0.0" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
-
+|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 ---
 
-### 2. 📝 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only) 코틀린 & 스프링 부트 📝
+### 2. 📝 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only) 📝
 <!-- ### 1. Sparta coding Club - TODO List Project (Backend Only) Kotlin & Spring Boot -->
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 ---
-### 3. 📚 스프링 스터디 📚
+
+### 3. 📝 스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 📝
+### [거두 절미하고 시연영상부터 보기](https://www.youtube.com/watch?v=byN59cJxvIg)
+
+|WAS Tool|DBMS|Language|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
+---
+
+### 4. 📚 스프링 스터디 📚
 <!-- ### 2. Spring study -->
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/H2 Database-3B66BC?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Spring_study" target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|
 ---
-### 4. 📂 관리자 페이지 (산학협력 프로젝트) 📂 
+### 5. 📂 관리자 페이지 (산학협력 프로젝트) 📂 
 <!-- ### 3. Admin Page KAU 2022 -->
 *난 무엇을 했을까요?*
 |Data Server Tool|DBMS|Language|
