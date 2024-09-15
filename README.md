@@ -4,13 +4,13 @@
 Drag & Copy: tnsdyd6933@naver.com
 
 # 📚 현재 포지션: SSAFY 12기 Embedded Track 교육생 📚
-# 📚 Current Position: SSAFY 12th Embedded Track Tutee 📚
+# Current Position: SSAFY 12th Embedded Track Tutee
 
 ### 👋 사람을 좋아하는 SW 엔지니어 이순용입니다! 🛠️
-### 👋 I'm a PEOPLE PERSON SW Engineer Soon Yong LEE! 🛠️
+### I'm a PEOPLE PERSON SW Engineer Soon Yong LEE!
 
 ### 💪 프로젝트 | 🎟️ 뱃지를 누르면 각 프로젝트 브랜치로 이동합니다!
-### 💪 Project | 🎟️ Every Badge will guide you to Project Branch!
+### Project | Every Badge will guide you to Project Branch!
 # 🌐 _Network & Server_ 🌐
 
 #### 1. 📝 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only) 코틀린 & 스프링 부트 📝
