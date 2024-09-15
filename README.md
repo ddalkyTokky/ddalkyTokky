@@ -58,6 +58,7 @@ Drag & Copy: tnsdyd6933@naver.com
 
 # 📟 _Android & Embedded_ 📟
 #### 1. 🚘 제21회 임베디드 SW 경진대회 (우수상) 🚘  
+### [거두 절미하고 시연영상부터 보기](https://youtu.be/AbLxZkI1KmE)
 <!-- #### 1. 21th Embedded SW Contest -->
 *난 무엇을 했을까요?*
 |Application Tool|Language1|Language2|
