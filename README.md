@@ -13,7 +13,8 @@ Drag & Copy: tnsdyd6933@naver.com
 <!-- ### Project | Every Badge will guide you to Project Branch! -->
 # 🌐 _Network & Server_ 🌐
 
-### 1. 스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 코틀린 & 스프링 부트
+### 1. <svg fill="#0052CC" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Jira</title><path d="M11.571 11.513H0a5.218 5.218 0 0 0 5.232 5.215h2.13v2.057A5.215 5.215 0 0 0 12.575 24V12.518a1.005 1.005 0 0 0-1.005-1.005zm5.723-5.756H5.736a5.215 5.215 0 0 0 5.215 5.214h2.129v2.058a5.218 5.218 0 0 0 5.215 5.214V6.758a1.001 1.001 0 0 0-1.001-1.001zM23.013 0H11.455a5.215 5.215 0 0 0 5.215 5.215h2.129v2.057A5.215 5.215 0 0 0 24 12.483V1.005A1.001 1.001 0 0 0 23.013 0Z"/></svg>![jira-color](https://github.com/user-attachments/assets/925b3cd8-5dc6-4386-bece-92b084d8ee1c)
+  스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 코틀린 & 스프링 부트
 
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
