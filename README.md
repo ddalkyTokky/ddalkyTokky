@@ -13,9 +13,9 @@ Drag & Copy: tnsdyd6933@naver.com
 <!-- ### Project | Every Badge will guide you to Project Branch! -->
 # 🌐 _Network & Server_ 🌐
 
-### 0. [VeuJS 관련 프로젝트](http://tnsdyd.6933.kro.kr/) 연습! (아직 Repo 정리중)
+### 0. ☕ [VueJS 관련 프로젝트](http://tnsdyd.6933.kro.kr/) 연습! 카페 메뉴·주문 키오스크 (아직 Repo 정리중) ☕
 
-### 1. 📝 스파르타 코딩 클럽 - NewFeed 음악추천 프로그램 📝
+### 1. 🎵 스파르타 코딩 클럽 - NewFeed 음악추천 프로그램 🎵
 ### [거두 절미하고 시연영상부터 보기](https://www.youtube.com/watch?v=L8JOhpif_mQ)
 
 |WAS Tool|DBMS|Language|
@@ -23,14 +23,14 @@ Drag & Copy: tnsdyd6933@naver.com
 |<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/NewsFeed/tree/main" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 ---
 
-### 2. 📝 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only) 📝
+### 2. 📜 스파르타 코딩 클럽 - 할일 목록 조회하기 (백엔드 Only) 📜
 <!-- ### 1. Sparta coding Club - TODO List Project (Backend Only) Kotlin & Spring Boot -->
 |WAS Tool|DBMS|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/KotlinSpring_TODO_Backend" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=EEEEEE"/></a>|
 ---
 
-### 3. 📝 스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 📝
+### 3. 📋 스파르타 코딩 클럽 - AJIR 할일 목록 설정하기 (JIRA 모사) 📋
 ### [거두 절미하고 시연영상부터 보기](https://www.youtube.com/watch?v=byN59cJxvIg)
 
 |WAS Tool|DBMS|Language|
