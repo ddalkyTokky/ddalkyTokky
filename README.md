@@ -14,7 +14,7 @@ Drag & Copy: tnsdyd6933@naver.com
 # 🌐 _Network & Server_ 🌐
 
 ### 0. ☕ [VueJS 관련 프로젝트](http://tnsdyd.6933.kro.kr/) 연습! 카페 메뉴·주문 키오스크 (아직 Repo 정리중) ☕
-<!-- ### Server Status: Stop 🔴-->
+### Server Status: Stop 🔴
 ### Server Status: Bug Fixing 🟡
 <!-- ### Server Status: On 🟢-->
 
