@@ -13,9 +13,11 @@ Drag & Copy: tnsdyd6933@naver.com
 <!-- ### Project | Every Badge will guide you to Project Branch! -->
 # 🌐 _Network & Server_ 🌐
 
-<!--### Server Status: Stop 🔴-->
-<!--### Server Status: Bug Fixing 🟡-->
-### Server Status: Working🟢
+|Server Status|Symbol|Detail|
+|:---:|:---:|:---:|
+|Stop|🔴|Connection Halt|
+|Bug Fixing|🟡|Connection Available|
+|Working|🟢|Connection Available|
 
 ### 0. ☕ [VueJS 관련 프로젝트](http://tnsdyd.6933.kro.kr/)🟢 연습! 카페 메뉴·주문 키오스크 (아직 Repo 정리중) ☕
 
