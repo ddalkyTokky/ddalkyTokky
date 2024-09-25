@@ -11,6 +11,28 @@ Drag & Copy: tnsdyd6933@naver.com
 
 ### 💪 프로젝트 | 🎟️ 뱃지를 누르면 각 프로젝트 브랜치로 이동합니다!
 <!-- ### Project | Every Badge will guide you to Project Branch! -->
+
+# 📟 _Android & Embedded_ 📟
+#### 1. 🚘 제21회 임베디드 SW 경진대회 (우수상) 🚘  
+### [거두 절미하고 시연영상부터 보기](https://youtu.be/AbLxZkI1KmE)
+<!-- #### 1. 21th Embedded SW Contest -->
+*난 무엇을 했을까요?*
+|Application Tool|Language1|Language2|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/></a>|
+
+*우리팀은 무엇을 했을까요?*
+|Embedded Tool|Language1|Language2|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/Python 3.6-3776AB?style=for-the-badge&logo=python&logoColor=EEEEEE"/></a>|
+
+#### 2. 🚁 쿼드콥터 안드로이드 지상 관제 앱 개발 🚁
+<!-- #### 2. Quadcopter_Android_GCS_MAVSDK -->
+|Application Tool|Language1|Language2|
+|:---:|:---:|:---:|
+|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>|
+
+
 # 🌐 _Network & Server_ 🌐
 
 |Server Status|Symbol|Detail|
@@ -63,26 +85,6 @@ Drag & Copy: tnsdyd6933@naver.com
 |UI Server Tool|Styled Component|Language|
 |:---:|:---:|:---:|
 |<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3A3A3A"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Admin_Page_KAU2022/tree/UIServer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=EEEEEE"/></a>|
-
-# 📟 _Android & Embedded_ 📟
-#### 1. 🚘 제21회 임베디드 SW 경진대회 (우수상) 🚘  
-### [거두 절미하고 시연영상부터 보기](https://youtu.be/AbLxZkI1KmE)
-<!-- #### 1. 21th Embedded SW Contest -->
-*난 무엇을 했을까요?*
-|Application Tool|Language1|Language2|
-|:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/></a>|
-
-*우리팀은 무엇을 했을까요?*
-|Embedded Tool|Language1|Language2|
-|:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/ArduinoIDE-00878F?style=for-the-badge&logo=arduino&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code" target="_blank"><img src="https://img.shields.io/badge/Python 3.6-3776AB?style=for-the-badge&logo=python&logoColor=EEEEEE"/></a>|
-
-#### 2. 🚁 쿼드콥터 안드로이드 지상 관제 앱 개발 🚁
-<!-- #### 2. Quadcopter_Android_GCS_MAVSDK -->
-|Application Tool|Language1|Language2|
-|:---:|:---:|:---:|
-|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/Android Studio-34A853?style=for-the-badge&logo=android&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK"><img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=&logoColor=EEEEEE"/></a>|<a href="https://github.com/ddalkyTokky/Quadcopter_Android_GCS_MAVSDK" target="_blank"><img src="https://img.shields.io/badge/RXJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=EEEEEE"/></a>|
 
 # 🧠 _Etc. Algorithm_ 🧠
 <a href="https://github.com/ddalkyTokky/Algorithm_test" target="_blank"><img src="https://img.shields.io/badge/Algorithm_test-fad0c9?style=for-the-badge&logo=thealgorithms&logoColor=000000"/></a>
