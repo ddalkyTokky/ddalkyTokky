@@ -3,9 +3,6 @@
 
 Drag & Copy: tnsdyd6933@naver.com
 
-# 📚 이전 포지션: [GINT](http://www.gintlab.com/) 융합시스템개발팀 주임연구원 📚
-<!-- # Current Position: GINT Converge System Development Assistant Engineer -->
-
 ### 👋 사람을 좋아하는 SW 엔지니어 이순용입니다! 🛠️
 <!-- ### I'm a PEOPLE PERSON SW Engineer Soon Yong LEE! -->
 
